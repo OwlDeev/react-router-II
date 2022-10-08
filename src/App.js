@@ -13,7 +13,8 @@ export default function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/character/:name" element={<Character />} />
         <Route path="/" element={<Navigate to="/home" />} />
-        <Route path="/react-router-II" element={<Navigate to="/home" />} />
+        <Route path="/react-router-II/" element={<Navigate to="/home" />} />
+        <Route path="https://owldeev.github.io/react-router-II/" element={<Navigate to="/home" />} />
       </Routes>
     </BrowserRouter>
   );
