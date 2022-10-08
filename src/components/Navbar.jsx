@@ -15,7 +15,7 @@ export default function ButtonAppBar() {
       <AppBar position="static">
         <Toolbar>
           <div className="separationLogo">
-            <NavLink className={setActiveClass} to="/home">
+            <NavLink className={setActiveClass} to="/react-router-II">
               <Typography variant="h4">HOME</Typography>
             </NavLink>
           </div>
