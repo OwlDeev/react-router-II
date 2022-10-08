@@ -1,0 +1,9 @@
+.active {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.inactive {
+  color: rgb(124, 124, 124);
+  text-decoration: none;
+}

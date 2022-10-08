@@ -1,0 +1,46 @@
+.characterMain{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.divImageType{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageCharacter{
+    width: 80%;
+    height: 80%;
+}
+
+.typeCharacter{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleType{
+    color: aliceblue !important;
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.titleName{
+    text-transform: uppercase;
+    font-size: 50px;
+}

@@ -1,0 +1,24 @@
+.logoImg {
+  width: 300px;
+  height: 40px;
+}
+
+.separationLogo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.active {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.inactive {
+  color: rgb(124, 124, 124);
+  text-decoration: none;
+}
+
+.navbarMain{
+    display: flex;
+}
